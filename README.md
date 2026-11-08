@@ -1,70 +1,84 @@
-<div align="center">
-  
-# 🤖 J.A.R.V.I.S. SYSTEM ONLINE
 
-<img src="https://media.giphy.com/media/m3oQhUEn3XWqA/giphy.gif" alt="JARVIS HUD" width="600"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+back,+Harsha.;Initializing+AI+Protocols...;System+Online.)](https://git.io/typing-svg)
+<!--
+**Harshavardhan-Reddy0309/Harshavardhan-Reddy0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-*Aspiring AI Engineer | Python Developer | Future Innovator*
+Here are some ideas to get you started:i already hae this in my read me file
+# 👋 Hey, I'm Harsha!
 
----
+### 🤖 Aspiring AI Engineer | Python Developer | Future Innovator
 
-### 🌐 SYSTEM DIRECTIVES (ABOUT ME)
+I'm a first-year engineering student passionate about Artificial Intelligence, Machine Learning, and building technology that solves real-world problems.
 
-</div>
-
-- 🎯 **Primary Objective:** Working towards becoming an AI Engineer.
-- 🐍 **Current Execution:** Learning Python and programming fundamentals.
-- 🧠 **Core Processing:** Interested in Artificial Intelligence and Machine Learning.
-- 💻 **Sub-routines:** Exploring web development and software engineering.
-- 📚 **Machine Learning:** Always curious to learn new technologies.
-- ⚡ **Operational Logic:** Believe in learning by building projects.
-
-<div align="center">
+I'm currently learning programming and developing my skills step by step to become an AI Engineer.
 
 ---
 
-### 🛠️ ACTIVE & PENDING PROTOCOLS (TECH STACK)
+### 🚀 About Me
 
-**[ STATUS: ONLINE ]**<br>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF" />
+- 🎯 Working towards becoming an AI Engineer.
+- 🐍 Learning Python and programming fundamentals.
+- 🧠 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Exploring web development and software engineering.
+- 📚 Always curious to learn new technologies.
+- ⚡ Believe in learning by building projects.
 
-**[ STATUS: INITIALIZING SOON ]**<br>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FFFF" />
+### 🛠️ Tech Stack
+
+**Currently Exploring**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Planning to Learn**
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🧠 My Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Generative AI
+- Data Science
+
+### 📌 Featured Projects
+
+*Coming soon! I'm working towards building projects that demonstrate my learning and problem-solving skills.*
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 🧠 CORE PROCESSORS (INTERESTS)
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Neural Networks` `Generative AI` `Data Science`
+### 🌱 My Journey
 
----
-
-### 📊 TELEMETRY DATA (GITHUB STATS)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshavardhan-Reddy0309&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=0" alt="GitHub Stats" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhan-Reddy0309&layout=compact&bg_color=000000&title_color=00FFFF&text_color=00FFFF&border_color=00FFFF&border_radius=0" alt="Top Languages" />
-
----
-
-### 📡 MISSION LOG
-
-**`[ LOG: Learn → Build → Experiment → Improve → Innovate ]`**
+**Learn → Build → Experiment → Improve → Innovate**
 
 *Building my future in Artificial Intelligence, one project at a time.*
-
-</div>
 
 
 <!--
 **Harshavardhan-Reddy0309/Harshavardhan-Reddy0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
